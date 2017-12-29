@@ -1,0 +1,4 @@
+$ psql postgres postgres
+# \i database_schema.sql
+# \i database_data.sql
+# \q
